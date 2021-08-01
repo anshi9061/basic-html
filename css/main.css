@@ -43,6 +43,7 @@ a {
     text-align: center;
     justify-content: center;
     height: 100vh;
+    display: block;
 }
 
 body{
