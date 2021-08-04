@@ -41,16 +41,34 @@ a {
 .container{
     display: flex;
     text-align: center;
-    justify-content: center;
+    justify-content: center; 
+    align-items: center;
     height: 100vh;
-    display: block;
+    /* display: block; */
+    /* background-color: brown; */
+    
 }
+/* .heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aquamarine;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: blue;
+
+} */
 
 body{
     margin: 0;
     background-image: url(/image/color.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    text-align: center;
+    /* text-align: center; */
 }
 
